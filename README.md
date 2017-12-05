@@ -1,6 +1,10 @@
 # http2-node-demo
 
-### Reference
+### Getting Started
+    1. `npm install`
+    1.  `node index.js`
+
+#### Reference
 
 http://voidcanvas.com/http2-server-push/
 
@@ -17,3 +21,5 @@ https://www.npmjs.com/package/http2-push-assets
 https://blog.cloudflare.com/accelerating-node-js-applications-with-http-2-server-push/
 
 http://2ality.com/2016/10/async-function-tips.html
+
+https://github.com/senchalabs/connect/issues/1094#issuecomment-327227838
