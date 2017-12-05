@@ -1,8 +1,9 @@
 # http2-node-demo
 
 ### Getting Started
-    1. `npm install`
-    1.  `node index.js`
+ 1. `npm install`
+
+ 1. `node index.js`
 
 #### Reference
 
