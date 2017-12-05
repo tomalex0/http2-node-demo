@@ -1,5 +1,7 @@
 # http2-node-demo
 
+`Need node v8.9.0 and above`
+
 ### Getting Started
 
  1. `npm install`
