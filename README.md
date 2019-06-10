@@ -31,6 +31,9 @@ https://github.com/expressjs/express/pull/3730
 
 https://kinsta.com/learn/what-is-http2/
 
+https://medium.com/@factoryhr/http-2-the-difference-between-http-1-1-benefits-and-how-to-use-it-38094fa0e95b
+
+
 ### Nginx http2
 https://www.keycdn.com/blog/http-preload-vs-http2-push
 
