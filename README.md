@@ -26,7 +26,10 @@ https://blog.cloudflare.com/accelerating-node-js-applications-with-http-2-server
 http://2ality.com/2016/10/async-function-tips.html
 
 https://github.com/senchalabs/connect/issues/1094#issuecomment-327227838
+
 https://github.com/expressjs/express/pull/3730
+
+https://kinsta.com/learn/what-is-http2/
 
 ### Nginx http2
 https://www.keycdn.com/blog/http-preload-vs-http2-push
